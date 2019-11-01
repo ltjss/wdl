@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>Usage of different font,styles and colors </title>
+<!--<link rel="stylesheet" type="text/css" href="styles.css"/>-->
+<style>
+h1
+{
+color:red;
+font-family:caStellar;
+font-size:22pt;
+text-decoration:underline;
+}
+h2
+{
+color:blue;
+font-family:Chiller;
+font-size:18pt;
+text-decoration:overline;
+}
+p
+{
+color:magenta;
+font-family:Trebuchet MS;
+font-size:14pt;
+font-style:italic;
+}
+
+</style>
+</head>
+<body>
+<h1>This header is in red</h1>
+<h2>This header is in blue</h2>
+<p>This is normal text</p>
+</body>
+</html>
+
